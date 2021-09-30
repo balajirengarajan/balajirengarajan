@@ -16,15 +16,15 @@ I could describe myself in 3 words
 <I>Stability</I> is be the key on my solutions. I prefer to find the solution rather fixing the issue for the time. My passion about technology is : You could bring the expected result in multiple ways, but finding the right way is what I crazy about.
 
 <div width="100%">
-    <table cellpadding="0" cellspacing="0" style="border: 0px solid transparent;">
-        <td><li> 🔭 I’m currently working on ...<I>Micro Services, Mapforce, IBM MQ </I> </li>
-<li> 🌱 I’m currently learning ... <I>AWS & System Design </I> </li>
-<li> 💬 Ask me about ... <I>Anything, It would be an opportunity for me to learn as well. </I> </li>
-<li> 😄 Pronouns: ... <I>He/Him </I> </li></td>
-        <td align="middle" font-family="Lato">Just one great idea can change your life dramatically. Look for it. Its there somewhere.
-        <img align="middle" alt="GIF" src="https://github.com/balajirengarajan/balajirengarajan/blob/main/Master.gif" width="500" height="320" />
-        </td>
-    </table>
+    <div width="50%">
+        <li> 🔭 I’m currently working on ...<I>Micro Services, Mapforce, IBM MQ </I> </li>
+        <li> 🌱 I’m currently learning ... <I>AWS & System Design </I> </li>
+        <li> 💬 Ask me about ... <I>Anything, It would be an opportunity for me to learn as well. </I> </li>
+        <li> 😄 Pronouns: ... <I>He/Him </I> </li>
+    </div>
+    <div width="50%">Just one great idea can change your life dramatically. Look for it. Its there somewhere.
+        <img align="middle" alt="GIF" src="https://github.com/balajirengarajan/balajirengarajan/blob/main/Master.gif" width="500" height="320" /></div>
+    
 </div>
 <br />
 
