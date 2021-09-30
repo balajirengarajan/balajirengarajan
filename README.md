@@ -1,7 +1,7 @@
 ### Hi there 👋 I am <a href="mailto:balaji.rengarajan@outlook.com">Balaji Rengarajan</a>
 
 <br />
-<div style="font-family:Lato">
+
 <a href="https://www.linkedin.com/in/brenga/">
   <img align="left" alt="Balaji's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
@@ -13,7 +13,7 @@ I could describe myself in 3 words
 
 <br />
 <I>Stability</I> is be the key on my solutions. I prefer to find the solution rather fixing the issue for the time. My passion about technology is : You could bring the expected result in multiple ways, but finding the right way is what I crazy about.
-</div>
+
 <br />
 - 🔭 I’m currently working on ...Micro Services <br />
 - 🌱 I’m currently learning ... AWS <br />
