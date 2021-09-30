@@ -15,10 +15,10 @@ I could describe myself in 3 words
 <I>Stability</I> is be the key on my solutions. I prefer to find the solution rather fixing the issue for the time. My passion about technology is : You could bring the expected result in multiple ways, but finding the right way is what I crazy about.
 </div>
 <br />
-- 🔭 I’m currently working on ...Micro Services
-- 🌱 I’m currently learning ... AWS
-- 💬 Ask me about ... Anything, It would be opportunity for me to learn as well.
-- 😄 Pronouns: ... He/Him
+- 🔭 I’m currently working on ...Micro Services <br />
+- 🌱 I’m currently learning ... AWS <br />
+- 💬 Ask me about ... Anything, It would be opportunity for me to learn as well. <br />
+- 😄 Pronouns: ... He/Him <br />
 
 
 <!--
