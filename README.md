@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋 I am <a href="mailto:balaji.rengarajan@outlook.com">Balaji Rengarajan</a>
+
+I could describe myself in 3 words
+<li>Self-Motivated</li>
+<li>Decisive</li>
+<li>Strategically focused</li> 
 
 <!--
 **balajirengarajan/balajirengarajan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
