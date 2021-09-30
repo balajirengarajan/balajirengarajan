@@ -15,17 +15,19 @@ I could describe myself in 3 words
 <br />
 <I>Stability</I> is be the key on my solutions. I prefer to find the solution rather fixing the issue for the time. My passion about technology is : You could bring the expected result in multiple ways, but finding the right way is what I crazy about.
 
-<br />
-Just one great idea can change your life dramatically. Look for it. Its there somewhere.
-<img align="right" alt="GIF" src="https://github.com/balajirengarajan/balajirengarajan/blob/main/Master.gif" width="500" height="320" />
-
-<br /> 
-<li> 🔭 I’m currently working on ...<I>Micro Services, Mapforce, IBM MQ </I> </li>
+<div width="100%">
+    <table>
+        <td><li> 🔭 I’m currently working on ...<I>Micro Services, Mapforce, IBM MQ </I> </li>
 <li> 🌱 I’m currently learning ... <I>AWS & System Design </I> </li>
 <li> 💬 Ask me about ... <I>Anything, It would be an opportunity for me to learn as well. </I> </li>
-<li> 😄 Pronouns: ... <I>He/Him </I> </li>
-
+<li> 😄 Pronouns: ... <I>He/Him </I> </li></td>
+        <td>Just one great idea can change your life dramatically. Look for it. Its there somewhere.
+        <img align="right" alt="GIF" src="https://github.com/balajirengarajan/balajirengarajan/blob/main/Master.gif" width="500" height="320" />
+        </td>
+    </table>
+</div>
 <br />
+
 <b>**Languages & Tools**</b>
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
