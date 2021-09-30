@@ -22,7 +22,7 @@ I could describe myself in 3 words
         <li> 😄 Pronouns: ... <I>He/Him </I> </li>
 
 <div align="right">Just one great idea can change your life dramatically. Look for it. Its there somewhere.</div>
-        <img align="right" alt="GIF" src="https://github.com/balajirengarajan/balajirengarajan/blob/main/Master.gif" width="500" height="320" />
+        <img align="right" alt="GIF" src="https://github.com/balajirengarajan/balajirengarajan/blob/main/Master.gif" width="550" height="320" />
 
 
 <br />
