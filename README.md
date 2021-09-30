@@ -21,7 +21,7 @@ I could describe myself in 3 words
         <li> 💬 Ask me about ... <I>Anything, It would be an opportunity for me to learn as well. </I> </li>
         <li> 😄 Pronouns: ... <I>He/Him </I> </li>
 
-<div align="right">Just one great idea can change your life dramatically. Look for it. Its there somewhere.</div>
+<div align="right"><i>Just one great idea can change your life dramatically. Look for it. Its there somewhere.</i></div>
         <img align="right" alt="GIF" src="https://github.com/balajirengarajan/balajirengarajan/blob/main/Master.gif" width="550" height="320" />
 
 
