@@ -16,7 +16,7 @@ I could describe myself in 3 words
 <I>Stability</I> is be the key on my solutions. I prefer to find the solution rather fixing the issue for the time. My passion about technology is : You could bring the expected result in multiple ways, but finding the right way is what I crazy about.
 
 Just one great idea can change your life dramatically. Look for it. Its there somewhere.
-<img align="right" alt="GIF" src="https://github.com/balajirengarajan/balajirengarajan/blob/master/Master.gif" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/balajirengarajan/balajirengarajan/blob/main/Master.gif" width="500" height="320" />
 
 <br /> 
 <li> 🔭 I’m currently working on ...Micro Services, Mapforce, IBM MQ  </li>
