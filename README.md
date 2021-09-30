@@ -21,7 +21,7 @@ I could describe myself in 3 words
         <li> 💬 Ask me about ... <I>Anything, It would be an opportunity for me to learn as well. </I> </li>
         <li> 😄 Pronouns: ... <I>He/Him </I> </li>
 
-<div align="right"><i>Just one great idea can change your life dramatically. Look for it. Its there somewhere.</i></div>
+<div align="right"><I>Just one great idea can change your life dramatically. Look for it. Its there somewhere.</I></div>
         <img align="right" alt="GIF" src="https://github.com/balajirengarajan/balajirengarajan/blob/main/Master.gif" width="550" height="320" />
 
 
@@ -29,17 +29,21 @@ I could describe myself in 3 words
 
 <b>**Languages & Tools**</b>
 
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github/github.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 
 
+
 <br /><br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br />
 ![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=balajirengarajan&show_icons=true)
-
+<a href=”https://github.com/balajirengarajan">
+ <img align=”center” src=”https://github-readme-stats.vercel.app/api/top-langs/?username=balajirengarajan&theme=light&hide_langs_below=1" />
+</a>
 <!--
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=balajirengarajan=blue-green)
 
