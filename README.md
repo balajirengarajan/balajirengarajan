@@ -2,11 +2,11 @@
 <a href="https://www.linkedin.com/in/brenga/">
   <img align="left" alt="Balaji's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<img src=https://komarev.com/ghpvc/?username=balajirengarajan/>
+![Profile View Counter](https://komarev.com/ghpvc/?username=balajirengarajan)
 <!--
 ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/Tanu-N-Prabhu/Python)
 -->
-<br />
+
 I could describe myself in 3 words
 <li>Self-Motivated</li>
 <li>Decisive</li>
@@ -19,8 +19,8 @@ I could describe myself in 3 words
 - 🔭 I’m currently working on ...Micro Services, Mapforce, IBM MQ  <br />
 - 🌱 I’m currently learning ... AWS & System Design <br />
 - 💬 Ask me about ... Anything, It would be an opportunity for me to learn as well. <br />
-- 😄 Pronouns: ... He/Him <br />
-
+- 😄 Pronouns: ... He/Him 
+<br />
 <b>**Languages & Tools**</b>
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
