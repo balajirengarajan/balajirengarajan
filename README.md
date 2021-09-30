@@ -20,6 +20,10 @@ I could describe myself in 3 words
 - 💬 Ask me about ... Anything, It would be opportunity for me to learn as well. <br />
 - 😄 Pronouns: ... He/Him <br />
 
+<div style='Font-Family:Tahoma;'><b>**Languages & Tools**</b></div> 
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 
 <!--
 **balajirengarajan/balajirengarajan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
