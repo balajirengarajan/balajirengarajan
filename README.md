@@ -15,19 +15,16 @@ I could describe myself in 3 words
 <br />
 <I>Stability</I> is be the key on my solutions. I prefer to find the solution rather fixing the issue for the time. My passion about technology is : You could bring the expected result in multiple ways, but finding the right way is what I crazy about.
 
-<canvas id="myBoard" width="600" height="600" style="background:lightgray;" >
-<div width="100%">
-    <div width="50%">
-        <li> 🔭 I’m currently working on ...<I>Micro Services, Mapforce, IBM MQ </I> </li>
+
+<li> 🔭 I’m currently working on ...<I>Micro Services, Mapforce, IBM MQ </I> </li>
         <li> 🌱 I’m currently learning ... <I>AWS & System Design </I> </li>
         <li> 💬 Ask me about ... <I>Anything, It would be an opportunity for me to learn as well. </I> </li>
         <li> 😄 Pronouns: ... <I>He/Him </I> </li>
-    </div>
-    <div width="50%">Just one great idea can change your life dramatically. Look for it. Its there somewhere.
-        <img align="middle" alt="GIF" src="https://github.com/balajirengarajan/balajirengarajan/blob/main/Master.gif" width="500" height="320" /></div>
-    
-</div>
-</canvas>
+
+Just one great idea can change your life dramatically. Look for it. Its there somewhere.
+        <img align="right" alt="GIF" src="https://github.com/balajirengarajan/balajirengarajan/blob/main/Master.gif" width="500" height="320" />
+
+
 <br />
 
 <b>**Languages & Tools**</b>
