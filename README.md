@@ -1,7 +1,4 @@
 ### Hi there 👋 I am <a href="mailto:balaji.rengarajan@outlook.com">Balaji Rengarajan</a>
-
-<br />
-
 <a href="https://www.linkedin.com/in/brenga/">
   <img align="left" alt="Balaji's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
