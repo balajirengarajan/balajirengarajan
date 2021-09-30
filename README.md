@@ -41,9 +41,7 @@ I could describe myself in 3 words
 
 <br /><br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br />
 ![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=balajirengarajan&show_icons=true)
-<a href=”https://github.com/balajirengarajan">
- <img align=”center” src=”https://github-readme-stats.vercel.app/api/top-langs/?username=balajirengarajan&theme=light&hide_langs_below=1" />
-</a>
+
 <!--
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=balajirengarajan=blue-green)
 
