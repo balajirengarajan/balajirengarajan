@@ -15,7 +15,9 @@ I could describe myself in 3 words
 <br />
 <I>Stability</I> is be the key on my solutions. I prefer to find the solution rather fixing the issue for the time. My passion about technology is : You could bring the expected result in multiple ways, but finding the right way is what I crazy about.
 
-<br />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
+<br /> 
 <li> 🔭 I’m currently working on ...Micro Services, Mapforce, IBM MQ  </li>
 <li> 🌱 I’m currently learning ... AWS & System Design </li>
 <li> 💬 Ask me about ... Anything, It would be an opportunity for me to learn as well. </li>
