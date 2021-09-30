@@ -2,7 +2,7 @@
 <a href="https://www.linkedin.com/in/brenga/">
   <img align="left" alt="Balaji's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-![Profile View Counter](https://komarev.com/ghpvc/?username=balajirengarajan)
+![Profile View Counter](https://komarev.com/ghpvc/?username=balajirengarajan&show_icons=true)
 <!--
 ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/Tanu-N-Prabhu/Python)
 -->
