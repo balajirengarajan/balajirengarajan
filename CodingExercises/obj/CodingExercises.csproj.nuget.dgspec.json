@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\b9reng\\OneDrive - Chubb\\Documents\\GitHub\\balajirengarajan\\CodingExercises\\CodingExercises.csproj": {}
+    "C:\\Users\\b9reng\\OneDrive - Chubb\\Documents\\GitHub\\balajirengarajan\\codingexercises\\CodingExercises.csproj": {}
   },
   "projects": {
-    "C:\\Users\\b9reng\\OneDrive - Chubb\\Documents\\GitHub\\balajirengarajan\\CodingExercises\\CodingExercises.csproj": {
+    "C:\\Users\\b9reng\\OneDrive - Chubb\\Documents\\GitHub\\balajirengarajan\\codingexercises\\CodingExercises.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\b9reng\\OneDrive - Chubb\\Documents\\GitHub\\balajirengarajan\\CodingExercises\\CodingExercises.csproj",
+        "projectUniqueName": "C:\\Users\\b9reng\\OneDrive - Chubb\\Documents\\GitHub\\balajirengarajan\\codingexercises\\CodingExercises.csproj",
         "projectName": "CodingExercises",
-        "projectPath": "C:\\Users\\b9reng\\OneDrive - Chubb\\Documents\\GitHub\\balajirengarajan\\CodingExercises\\CodingExercises.csproj",
+        "projectPath": "C:\\Users\\b9reng\\OneDrive - Chubb\\Documents\\GitHub\\balajirengarajan\\codingexercises\\CodingExercises.csproj",
         "packagesPath": "C:\\Users\\b9reng\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\b9reng\\OneDrive - Chubb\\Documents\\GitHub\\balajirengarajan\\CodingExercises\\obj\\",
+        "outputPath": "C:\\Users\\b9reng\\OneDrive - Chubb\\Documents\\GitHub\\balajirengarajan\\codingexercises\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\b9reng\\AppData\\Roaming\\NuGet\\NuGet.Config",

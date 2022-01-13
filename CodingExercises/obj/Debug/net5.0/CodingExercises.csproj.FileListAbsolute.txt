@@ -1,0 +1,16 @@
+C:\Users\b9reng\OneDrive - Chubb\Documents\GitHub\balajirengarajan\codingexercises\obj\Debug\net5.0\CodingExercises.csprojAssemblyReference.cache
+C:\Users\b9reng\OneDrive - Chubb\Documents\GitHub\balajirengarajan\codingexercises\obj\Debug\net5.0\CodingExercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\b9reng\OneDrive - Chubb\Documents\GitHub\balajirengarajan\codingexercises\obj\Debug\net5.0\CodingExercises.AssemblyInfoInputs.cache
+C:\Users\b9reng\OneDrive - Chubb\Documents\GitHub\balajirengarajan\codingexercises\obj\Debug\net5.0\CodingExercises.AssemblyInfo.cs
+C:\Users\b9reng\OneDrive - Chubb\Documents\GitHub\balajirengarajan\codingexercises\obj\Debug\net5.0\CodingExercises.csproj.CoreCompileInputs.cache
+C:\Users\b9reng\OneDrive - Chubb\Documents\GitHub\balajirengarajan\codingexercises\bin\Debug\net5.0\CodingExercises.exe
+C:\Users\b9reng\OneDrive - Chubb\Documents\GitHub\balajirengarajan\codingexercises\bin\Debug\net5.0\CodingExercises.deps.json
+C:\Users\b9reng\OneDrive - Chubb\Documents\GitHub\balajirengarajan\codingexercises\bin\Debug\net5.0\CodingExercises.runtimeconfig.json
+C:\Users\b9reng\OneDrive - Chubb\Documents\GitHub\balajirengarajan\codingexercises\bin\Debug\net5.0\CodingExercises.runtimeconfig.dev.json
+C:\Users\b9reng\OneDrive - Chubb\Documents\GitHub\balajirengarajan\codingexercises\bin\Debug\net5.0\CodingExercises.dll
+C:\Users\b9reng\OneDrive - Chubb\Documents\GitHub\balajirengarajan\codingexercises\bin\Debug\net5.0\ref\CodingExercises.dll
+C:\Users\b9reng\OneDrive - Chubb\Documents\GitHub\balajirengarajan\codingexercises\bin\Debug\net5.0\CodingExercises.pdb
+C:\Users\b9reng\OneDrive - Chubb\Documents\GitHub\balajirengarajan\codingexercises\obj\Debug\net5.0\CodingExercises.dll
+C:\Users\b9reng\OneDrive - Chubb\Documents\GitHub\balajirengarajan\codingexercises\obj\Debug\net5.0\ref\CodingExercises.dll
+C:\Users\b9reng\OneDrive - Chubb\Documents\GitHub\balajirengarajan\codingexercises\obj\Debug\net5.0\CodingExercises.pdb
+C:\Users\b9reng\OneDrive - Chubb\Documents\GitHub\balajirengarajan\codingexercises\obj\Debug\net5.0\CodingExercises.genruntimeconfig.cache
