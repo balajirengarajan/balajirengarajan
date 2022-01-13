@@ -6,7 +6,8 @@ namespace CodingExercises
     {
         public enum MethodCall
         {
-            PlusMinus
+            PlusMinus,
+            MinMaxSum
         }
     }
 }

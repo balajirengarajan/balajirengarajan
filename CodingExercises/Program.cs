@@ -10,7 +10,7 @@ namespace CodingExercises
         static void Main(string[] args)
         {
             
-            CallMethod(CommonEnum.MethodCall.PlusMinus);
+            CallMethod(CommonEnum.MethodCall.MinMaxSum);
             
         }
 
@@ -20,6 +20,8 @@ namespace CodingExercises
             {
                 case CommonEnum.MethodCall.PlusMinus:
                     Call_PlusMinus();
+                break;
+                case CommonEnum.MethodCall.MinMaxSum:
                 break;
 
             }
@@ -38,6 +40,15 @@ namespace CodingExercises
             {
                 Console.WriteLine(item);
             }
+        }
+
+        static void Call_MinMaxSum()
+        {
+            Console.WriteLine("Enter A single line of five space-separated integers.");
+            List<int> arr = Console.ReadLine().TrimEnd().Split(' ').ToList().Select(arrTemp => Convert.ToInt32(arrTemp)).ToList();
+
+            string resultString = MinMaxSum.Result(arr);
+            Console.WriteLine(resultString);
         }
     }
 }
